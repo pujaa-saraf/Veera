@@ -1,0 +1,449 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+      "request": [
+          {
+              "title": "Google Custom Search - bitcoin",
+              "totalResults": "743000000",
+              "searchTerms": "bitcoin",
+              "count": 10,
+              "startIndex": 1,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "86a7065d3c499478c"
+          }
+      ],
+      "nextPage": [
+          {
+              "title": "Google Custom Search - bitcoin",
+              "totalResults": "743000000",
+              "searchTerms": "bitcoin",
+              "count": 10,
+              "startIndex": 11,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "86a7065d3c499478c"
+          }
+      ]
+  },
+  "context": {
+      "title": "veera"
+  },
+  "searchInformation": {
+      "searchTime": 0.417517,
+      "formattedSearchTime": "0.42",
+      "totalResults": "743000000",
+      "formattedTotalResults": "743,000,000"
+  },
+  "items": [
+      {
+          "kind": "customsearch#result",
+          "title": "Bitcoin - Open source P2P money",
+          "htmlTitle": "<b>Bitcoin</b> - Open source P2P money",
+          "link": "https://bitcoin.org/",
+          "displayLink": "bitcoin.org",
+          "snippet": "Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitcoin on bitcoin.org.",
+          "htmlSnippet": "<b>Bitcoin</b> is an innovative payment network and a new kind of money. Find all you need to know and get started with <b>Bitcoin</b> on <b>bitcoin</b>.org.",
+          "cacheId": "eftmar-x2ocJ",
+          "formattedUrl": "https://bitcoin.org/",
+          "htmlFormattedUrl": "https://<b>bitcoin</b>.org/",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WIYa8pA2tiDqikI8cacAg7lBLNS3AwC4YyiGAZjUVCEGI3RlnHrcPRHp&s",
+                      "width": "225",
+                      "height": "225"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "og:image": "https://bitcoin.org/img/icons/opengraph.png?1712138899",
+                      "viewport": "width=device-width, initial-scale=1.0, user-scalable=no"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://bitcoin.org/img/icons/opengraph.png?1712138899"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Buy Bitcoin & cryptocurrency | Wallet, news, education.",
+          "htmlTitle": "Buy <b>Bitcoin</b> &amp; cryptocurrency | Wallet, news, education.",
+          "link": "https://www.bitcoin.com/",
+          "displayLink": "www.bitcoin.com",
+          "snippet": "The world's gateway to Bitcoin & cryptocurrency. Buy, sell, spend, swap, and invest in BTC, ETH, BCH, AVAX, MATIC & hundreds more digital assets.",
+          "htmlSnippet": "The world&#39;s gateway to <b>Bitcoin</b> &amp; cryptocurrency. Buy, sell, spend, swap, and invest in BTC, ETH, BCH, AVAX, MATIC &amp; hundreds more digital assets.",
+          "cacheId": "kofx7tN3xaAJ",
+          "formattedUrl": "https://www.bitcoin.com/",
+          "htmlFormattedUrl": "https://www.<b>bitcoin</b>.com/",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-zsiatKaaQ-2m9p9fcMCZewrctyjtGVhonpQn5OdXo5UvDauuFDN9ceO&s",
+                      "width": "310",
+                      "height": "163"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "og:image": "https://www.bitcoin.com/images/uploads/home/facebook.png",
+                      "theme-color": "#111724",
+                      "og:image:width": "1200",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Buy Bitcoin & cryptocurrency | Wallet, news, education.",
+                      "og:title": "Buy Bitcoin & cryptocurrency | Wallet, news, education.",
+                      "og:image:height": "630",
+                      "og:description": "The world's gateway to Bitcoin & cryptocurrency. Buy, sell, spend, swap, and invest in BTC, ETH, BCH, AVAX, MATIC & hundreds more digital assets. Stay informed about crypto, DeFi, and Web3.",
+                      "og:image:secure_url": "https://www.bitcoin.com/images/uploads/home/facebook.png",
+                      "twitter:image": "https://www.bitcoin.com/images/uploads/home/facebook.png",
+                      "twitter:site": "@bitcoincom",
+                      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                      "twitter:description": "The world's gateway to Bitcoin & cryptocurrency. Buy, sell, spend, swap, and invest in BTC, ETH, BCH, AVAX, MATIC & hundreds more digital assets. Stay informed about crypto, DeFi, and Web3."
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://www.bitcoin.com/images/uploads/home/facebook.png"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Bitcoin - Wikipedia",
+          "htmlTitle": "<b>Bitcoin</b> - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Bitcoin",
+          "displayLink": "en.wikipedia.org",
+          "snippet": "Based on a free market ideology, bitcoin was invented in 2008 by Satoshi Nakamoto, an unknown person. ... Use of bitcoin as a currency began in 2009, with the ...",
+          "htmlSnippet": "Based on a free market ideology, <b>bitcoin</b> was invented in 2008 by Satoshi Nakamoto, an unknown person. ... Use of <b>bitcoin</b> as a currency began in 2009, with the&nbsp;...",
+          "cacheId": "imK8dl9rZMMJ",
+          "formattedUrl": "https://en.wikipedia.org/wiki/Bitcoin",
+          "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bitcoin</b>",
+          "pagemap": {
+              "metatags": [
+                  {
+                      "referrer": "origin",
+                      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
+                      "theme-color": "#eaecf0",
+                      "og:image:width": "1200",
+                      "og:type": "website",
+                      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                      "og:title": "Bitcoin - Wikipedia",
+                      "og:image:height": "1200",
+                      "format-detection": "telephone=no"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Bitcoin Price | BTC Price Index and Live Chart - CoinDesk",
+          "htmlTitle": "<b>Bitcoin</b> Price | BTC Price Index and Live Chart - CoinDesk",
+          "link": "https://www.coindesk.com/price/bitcoin/",
+          "displayLink": "www.coindesk.com",
+          "snippet": "Bitcoin USD price, real-time (live) charts, news and videos. Learn about BTC value, bitcoin cryptocurrency, crypto trading, and more.",
+          "htmlSnippet": "<b>Bitcoin</b> USD price, real-time (live) charts, news and videos. Learn about BTC value, <b>bitcoin</b> cryptocurrency, crypto trading, and more.",
+          "formattedUrl": "https://www.coindesk.com/price/bitcoin/",
+          "htmlFormattedUrl": "https://www.coindesk.com/price/<b>bitcoin</b>/",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdDlfUI5trRvUu9EjIuhBQEeg5EwA4oTpJSntbur5v0OdstOEJhLJWSQ&s",
+                      "width": "311",
+                      "height": "162"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "og:image": "https://www.coindesk.com/resizer/Kt7zesxdDqCDDVaIBHhSgULe2yk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YPAFPVTWFZECVBFWHPE6MV2QX4.png",
+                      "og:image:width": "1200",
+                      "og:type": "website",
+                      "twitter:title": "Bitcoin",
+                      "twitter:card": "summary_large_image",
+                      "og:title": "Bitcoin",
+                      "og:image:height": "628",
+                      "og:image:type": "image/png",
+                      "og:description": "Bitcoin USD price, real-time (live) charts, news and videos. Learn about BTC value, bitcoin cryptocurrency, crypto trading, and more.",
+                      "twitter:creator": "@coindesk",
+                      "twitter:image": "https://www.coindesk.com/resizer/xTOk3emTWZGweN_y1kuALungPDI=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YPAFPVTWFZECVBFWHPE6MV2QX4.png",
+                      "fb:app_id": "243125406422041",
+                      "twitter:site": "@coindesk",
+                      "viewport": "width=device-width, initial-scale=1",
+                      "twitter:description": "Bitcoin USD price, real-time (live) charts, news and videos. Learn about BTC value, bitcoin cryptocurrency, crypto trading, and more.",
+                      "og:locale": "en",
+                      "og:url": "https://www.coindesk.com/price/bitcoin/",
+                      "twitter:account_id": "1418565129"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://www.coindesk.com/resizer/Kt7zesxdDqCDDVaIBHhSgULe2yk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YPAFPVTWFZECVBFWHPE6MV2QX4.png"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Bitcoin price today, BTC to USD live price, marketcap and chart ...",
+          "htmlTitle": "<b>Bitcoin</b> price today, BTC to USD live price, marketcap and chart ...",
+          "link": "https://coinmarketcap.com/currencies/bitcoin/",
+          "displayLink": "coinmarketcap.com",
+          "snippet": "The live Bitcoin price today is $67984.88 USD with a 24-hour trading volume of $33275204405.20 USD. We update our BTC to USD price in real-time.",
+          "htmlSnippet": "The live <b>Bitcoin</b> price today is $67984.88 USD with a 24-hour trading volume of $33275204405.20 USD. We update our BTC to USD price in real-time.",
+          "cacheId": "vjRFWMsfMFAJ",
+          "formattedUrl": "https://coinmarketcap.com/currencies/bitcoin/",
+          "htmlFormattedUrl": "https://coinmarketcap.com/currencies/<b>bitcoin</b>/",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp95M8ALgTAtWAe67gnyCj0r7wCne_ZBm2khqpLQ-HY-iSeRe8kZmURWE9&s",
+                      "width": "200",
+                      "height": "200"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "og:image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1.png",
+                      "og:type": "website",
+                      "twitter:card": "summary_large_image",
+                      "og:image:width": "200",
+                      "og:site_name": "CoinMarketCap",
+                      "og:title": "Bitcoin price today, BTC to USD live price, marketcap and chart | CoinMarketCap",
+                      "og:image:height": "200",
+                      "og:image:type": "image/png",
+                      "og:description": "The live Bitcoin price today is $67,984.88 USD with a 24-hour trading volume of $33,275,204,405.20 USD. We update our BTC to USD price in real-time.",
+                      "twitter:image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1.png",
+                      "next-head-count": "73",
+                      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no",
+                      "og:url": "https://coinmarketcap.com/currencies/bitcoin/"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://s2.coinmarketcap.com/static/img/coins/200x200/1.png"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Bitcoin - The Currency of the Internet",
+          "htmlTitle": "<b>Bitcoin</b> - The Currency of the Internet",
+          "link": "https://www.reddit.com/r/Bitcoin/",
+          "displayLink": "www.reddit.com",
+          "snippet": "r/Bitcoin - Bitcoin's reserves hit 2021 lows signaling a shift to long-term.",
+          "htmlSnippet": "r/<b>Bitcoin</b> - <b>Bitcoin&#39;s</b> reserves hit 2021 lows signaling a shift to long-term.",
+          "formattedUrl": "https://www.reddit.com/r/Bitcoin/",
+          "htmlFormattedUrl": "https://www.reddit.com/r/<b>Bitcoin</b>/",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCOw28nbPT_4vf-w1l-k3iLa8ykqDhiaqLkrvAUrgLwALuYhdM2zTL6c&s",
+                      "width": "225",
+                      "height": "225"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "og:image": "https://styles.redditmedia.com/t5_2s3qj/styles/communityIcon_0b7iyz6hc6i51.png",
+                      "theme-color": "#000000",
+                      "og:image:width": "256",
+                      "og:type": "website",
+                      "twitter:card": "summary",
+                      "twitter:title": "r/Bitcoin",
+                      "og:site_name": "Reddit",
+                      "og:title": "r/Bitcoin",
+                      "og:image:height": "256",
+                      "bingbot": "noarchive",
+                      "msapplication-navbutton-color": "#000000",
+                      "og:description": "Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank.",
+                      "twitter:image": "https://styles.redditmedia.com/t5_2s3qj/styles/communityIcon_0b7iyz6hc6i51.png",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "twitter:site": "@reddit",
+                      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                      "apple-mobile-web-app-capable": "yes",
+                      "og:ttl": "600",
+                      "og:url": "https://www.reddit.com/r/Bitcoin/"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://styles.redditmedia.com/t5_2s3qj/styles/communityIcon_0b7iyz6hc6i51.png"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "What Is Bitcoin? How to Mine, Buy, and Use It",
+          "htmlTitle": "What Is <b>Bitcoin</b>? How to Mine, Buy, and Use It",
+          "link": "https://www.investopedia.com/terms/b/bitcoin.asp",
+          "displayLink": "www.investopedia.com",
+          "snippet": "Bitcoin (BTC) is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.",
+          "htmlSnippet": "<b>Bitcoin</b> (BTC) is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.",
+          "cacheId": "q3G-51w_tGYJ",
+          "formattedUrl": "https://www.investopedia.com/terms/b/bitcoin.asp",
+          "htmlFormattedUrl": "https://www.investopedia.com/terms/b/<b>bitcoin</b>.asp",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAjQ8_OqifvWXYcI_N8JHgFWa0diWdXEtwZcK0G1Jo-qbVa2FQ8SjzdXl5&s",
+                      "width": "275",
+                      "height": "183"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "og:image": "https://www.investopedia.com/thmb/delajsg8gcLlzwTVHpiGzDjS6Jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bitcoin-4a77cbed13064596b35f46d2861ab187.jpg",
+                      "twitter:card": "summary",
+                      "msapplication-square70x70logo": "/static/2.22.0/icons/favicons/mstile-70x70.png",
+                      "sailthru.tags": "cryptocurrency,bitcoin",
+                      "og:site_name": "Investopedia",
+                      "msapplication-wide310x150logo": "/static/2.22.0/icons/favicons/mstile-310x150.png",
+                      "msapplication-tileimage": "/static/2.22.0/icons/favicons/mstile-144x144.png",
+                      "og:description": "Bitcoin (BTC) is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.",
+                      "twitter:image": "https://www.investopedia.com/thmb/delajsg8gcLlzwTVHpiGzDjS6Jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bitcoin-4a77cbed13064596b35f46d2861ab187.jpg",
+                      "twitter:site": "@Investopedia",
+                      "msapplication-square310x310logo": "/static/2.22.0/icons/favicons/mstile-310x310.png",
+                      "emailcontenttype": "TERMSC",
+                      "parsely-section": "Cryptocurrency",
+                      "msapplication-tilecolor": "#F4F4F4",
+                      "og:type": "article",
+                      "twitter:title": "What Is Bitcoin? How to Mine, Buy, and Use It",
+                      "emailvertical": "INVESTOPEDIA",
+                      "og:title": "What Is Bitcoin? How to Mine, Buy, and Use It",
+                      "msapplication-square150x150logo": "/static/2.22.0/icons/favicons/mstile-150x150.png",
+                      "article:author": "https://www.facebook.com/Investopedia/",
+                      "parsely-tags": "Investopedia,Cryptocurrency,Bitcoin",
+                      "fb:app_id": "659054097907801",
+                      "viewport": "width=device-width, initial-scale=1.0",
+                      "twitter:description": "Bitcoin (BTC) is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.",
+                      "og:url": "https://www.investopedia.com/terms/b/bitcoin.asp",
+                      "sailthru.author": "The Investopedia Team"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://www.investopedia.com/thmb/delajsg8gcLlzwTVHpiGzDjS6Jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bitcoin-4a77cbed13064596b35f46d2861ab187.jpg"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+          "htmlTitle": "<b>Bitcoin</b>: A Peer-to-Peer Electronic Cash System",
+          "link": "https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf",
+          "displayLink": "www.ussc.gov",
+          "snippet": "Bitcoin Whitepaper - Written by Satoshi. Nakamoto in 2008, it describes the original plan and protocol for Bitcoin. BitPay - BitPay is a payment processing.",
+          "htmlSnippet": "<b>Bitcoin</b> Whitepaper - Written by Satoshi. Nakamoto in 2008, it describes the original plan and protocol for <b>Bitcoin</b>. BitPay - BitPay is a payment processing.",
+          "cacheId": "SmsyfmSRd4EJ",
+          "formattedUrl": "https://www.ussc.gov/sites/.../pdf/.../Emerging_Tech_Bitcoin_Crypto.pdf",
+          "htmlFormattedUrl": "https://www.ussc.gov/sites/.../pdf/.../Emerging_Tech_<b>Bitcoin</b>_Crypto.pdf",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBAA4mO7BnchwhgKQmEJDnFL-bkkZodZlVBUHfOUbUNuzLN7pbWbfd8Yl&s",
+                      "width": "155",
+                      "height": "155"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "moddate": "D:20180716115138-04'00'",
+                      "creationdate": "D:20180716115138-04'00'",
+                      "creator": "Adobe Acrobat Pro DC 18.11.20055",
+                      "producer": "Adobe Acrobat Pro DC 18.11.20055"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "x-raw-image:///67c65baa206699eef3be299a1eda94afbeb8e9878ac76891f9c5d3bb689ca4c5"
+                  }
+              ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "BTC.CM=: Bitcoin/USD Coin Metrics - Stock Price, Quote and News ...",
+          "htmlTitle": "BTC.CM=: <b>Bitcoin</b>/USD Coin Metrics - Stock Price, Quote and News ...",
+          "link": "https://www.cnbc.com/quotes/BTC.CM=",
+          "displayLink": "www.cnbc.com",
+          "snippet": "Get Bitcoin/USD Coin Metrics (BTC.CM=:Exchange) real-time stock quotes, news, price and financial information from CNBC.",
+          "htmlSnippet": "Get <b>Bitcoin</b>/USD Coin Metrics (BTC.CM=:Exchange) real-time stock quotes, news, price and financial information from CNBC.",
+          "formattedUrl": "https://www.cnbc.com/quotes/BTC.CM=",
+          "htmlFormattedUrl": "https://www.cnbc.com/quotes/BTC.CM=",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZdQ46NHd7YrjA6Pn72tPRVLPSLdZtD4-g0w--LaOkVXLy17FVBUoOrg&s",
+                      "width": "310",
+                      "height": "163"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "og:image": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo_new.png?v=1524171804",
+                      "apple-itunes-app": "app-id=398018310",
+                      "og:type": "website",
+                      "twitter:card": "summary",
+                      "twitter:title": "Check out 's stock price (BTC.CM=) in real time",
+                      "og:site_name": "CNBC",
+                      "al:ios:app_name": "CNBC Business News and Finance",
+                      "twitter:url": "https://www.cnbc.com/quotes/BTC.CM=",
+                      "og:title": "Check out 's stock price (BTC.CM=) in real time",
+                      "title": "BTC.CM=: Bitcoin/USD Coin Metrics - Stock Price, Quote and News - CNBC",
+                      "og:description": "Get Bitcoin/USD Coin Metrics (BTC.CM=:Exchange) real-time stock quotes, news, price and financial information from CNBC.",
+                      "parsely-metadata": "{\"nodeid\": \"101\",\"originalImage\": \"https://sc.cnbcfm.com/applications/cnbc.com/resources/img/editorial/2015/03/30/102546467-Most-Popular--Image-Placeholder-Large.jpg\"}",
+                      "article:publisher": "https://www.facebook.com/CNBC",
+                      "article:author": "https://www.facebook.com/CNBC",
+                      "al:ios:app_store_id": "398018310",
+                      "referrer": "unsafe-url",
+                      "parsely-type": "post",
+                      "twitter:site": "@CNBC",
+                      "viewport": "initial-scale=1.0, width=device-width",
+                      "og:url": "https://www.cnbc.com/quotes/BTC.CM=",
+                      "format-detection": "telephone=no"
+                  }
+              ],
+              "webpage": [
+                  {
+                      "image": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo_new.png?v=1524171804",
+                      "keywords": "Bitcoin/USD Coin Metrics, BTC.CM=, STOCK markets, CNBC",
+                      "name": "BTC.CM=: Bitcoin/USD Coin Metrics - Stock Price, Quote and News - CNBC",
+                      "description": "Get Bitcoin/USD Coin Metrics (BTC.CM=:Exchange) real-time stock quotes, news, price and financial information from CNBC.",
+                      "url": "https://www.cnbc.com/quotes/BTC.CM="
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo_new.png?v=1524171804"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Bitcoin Wiki",
+          "htmlTitle": "<b>Bitcoin</b> Wiki",
+          "link": "https://en.bitcoin.it/wiki/Main_Page",
+          "displayLink": "en.bitcoin.it",
+          "snippet": "Feb 9, 2021 ... Bitcoin usage worldwide. Bitcoin is a decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin ...",
+          "htmlSnippet": "Feb 9, 2021 <b>...</b> <b>Bitcoin</b> usage worldwide. <b>Bitcoin</b> is a decentralized digital currency that enables instant payments to anyone, anywhere in the world. <b>Bitcoin</b>&nbsp;...",
+          "cacheId": "1Zw9ezoCpOcJ",
+          "formattedUrl": "https://en.bitcoin.it/wiki/Main_Page",
+          "htmlFormattedUrl": "https://en.<b>bitcoin</b>.it/wiki/Main_Page"
+      }
+  ]
+}
